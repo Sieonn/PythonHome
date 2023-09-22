@@ -1,5 +1,5 @@
-# import pandas as pd
-# import numpy as np
+import pandas as pd
+import numpy as np
 
 def output(man):
     print(f'{"사번"}\t{"급수"}\t{"호"}\t{"수당"}\t{"지급액"}\t{"세금"}\t{"차인금액"}')
